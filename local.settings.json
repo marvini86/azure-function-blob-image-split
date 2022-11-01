@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "java",
+    "StorageConnectString": "",
+    "MAIN_CLASS": "br.com.wzapps.fnimagesplit.Application"
+  }
+}
